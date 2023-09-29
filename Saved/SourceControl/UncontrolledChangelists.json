@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/jiatuoz/Documents/CS415/Level Design/LevelDesign/Content/LevelDesign.umap",
+				"/Users/jiatuoz/Documents/CS415/Level Design/LevelDesign/Content/BlockGame/Maps/BlockGameMap.umap",
+				"/Users/jiatuoz/Documents/CS415/Level Design/LevelDesign/Content/Hour_of_Code/Widgets/Score.uasset",
+				"/Users/jiatuoz/Documents/CS415/Level Design/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/PursuerController.uasset",
+				"/Users/jiatuoz/Documents/CS415/Level Design/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Pursuer.uasset",
+				"/Users/jiatuoz/Documents/CS415/Level Design/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/EAIState.uasset",
+				"/Users/jiatuoz/Documents/CS415/Level Design/LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/jiatuoz/Documents/CS415/Level Design/LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/CoinFloor.uasset",
+				"/Users/jiatuoz/Documents/CS415/Level Design/LevelDesign/Content/Hour_of_Code/Widgets/HealthBar.uasset",
+				"/Users/jiatuoz/Documents/CS415/Level Design/LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/HealthFloor.uasset",
+				"/Users/jiatuoz/Documents/CS415/Level Design/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Projectile.uasset",
+				"/Users/jiatuoz/Documents/CS415/Level Design/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Shooter.uasset",
+				"/Users/jiatuoz/Documents/CS415/Level Design/LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/Floor.uasset",
+				"/Users/jiatuoz/Documents/CS415/Level Design/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Mortar.uasset",
+				"/Users/jiatuoz/Documents/CS415/Level Design/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/Bullet.uasset",
+				"/Users/jiatuoz/Documents/CS415/Level Design/LevelDesign/Content/LearningKit_Games/Blueprints/Enemies/ShooterAI.uasset",
+				"/Users/jiatuoz/Documents/CS415/Level Design/LevelDesign/Content/Hour_of_Code/Widgets/W_gameCompletion.uasset"
+			]
+		}
+	]
+}
